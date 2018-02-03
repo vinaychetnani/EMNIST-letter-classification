@@ -4,7 +4,8 @@
 We are using alphabets from our names, they are 'V', 'I', 'N', 'P', 'R', 'A', 'H', 'M', 'S'
 We are using "EMNIST-byclass" dataset, from that we are only using capital alphabets as mentioned above
 
-
+Download the dataset from the link given below and save it in "emnist-matlab" folder
+LINK: https://drive.google.com/file/d/1cYnhsKiJ6bZokTy-8YePTJbs4zIMtbkS/view?usp=sharing
 
 
 # Mapping of dataset labels is as follows:
